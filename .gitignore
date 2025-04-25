@@ -40,3 +40,6 @@ devenv.local.nix
 
 # Ignore Gradle build output directory
 build
+
+# IDE
+.idea
